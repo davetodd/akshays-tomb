@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div id="chapter">
+    
+    <h1 id="chapter-title">{{ page.title }}</h1>
+    <div id="chapter-subtitle">{{ page.subtitle }}</div>
+    <div id="chapter-toc">
+        {% include toc.html html=content %}
+    </div>
+    <div id="chapter-content">
+        {{ content }}
+    </div>
+    
+</div>

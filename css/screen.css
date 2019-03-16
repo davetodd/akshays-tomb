@@ -1,0 +1,16 @@
+body {
+  background-color: white;
+  font-family: Georgia, serif;
+  margin: 0 auto;
+  max-width: 1020px;
+  padding: 0 10px;
+}
+
+a, a:visited, a:active {
+  color: black;
+}
+
+.title {
+  border-bottom: 1px solid #eee;
+  padding: 10px 0;
+}

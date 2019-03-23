@@ -18,7 +18,7 @@ Then he had a better idea.
 
 He jogged towards the docks and caught up with two men in front of a dock-side inn. They were carrying a bundle of blue cedar that hadn't yet been cut into shafts, so he offered them each two marks to leave the cedar on the inn's porch and forget about it. They dumped the wood on the porch, in front of the door, and Akshay had to shove it out of the way in order to get the door open.
 
-He entered the inn -- it was called the Early Inn -- and found himself in the common room, which was small, clean, and empty. The proprieter was resting his elbows on a tall desk, staring vacantly at the far wall. He glanced at Akshay, who said, "I've a delivery for M. Cheadle. The boys left it out front. You the one to watch it for him?"
+He entered the inn -- it was called the Early Inn -- and found the proprieter resting his elbows on a tall desk, staring vacantly at the small, clean, empty common room. He glanced at Akshay, who said, "I've a delivery for M. Cheadle. The boys left it out front. You the one to watch it for him?"
 
 The proprieter frowned. "No one of that name here," he said.
 
@@ -78,9 +78,9 @@ Akshay spent the next several hours loitering in a cafe and then went back to th
 
 The next day, Akshay awoke to a knock on the door of his apartment. A man was there with a moving crew, sent by Lady Eliza. Akshay led them down to the hauler, where the captain shrugged and told them to be quick about it. As there were no consultants present, Akshay directed the moving crew to unload all of the arrow building supplies. He ignored the bows, bow making equipment, and any already assembled arrows, since he assumed that those would be easier for the Augur to <value> and potentially place a <lien> on.
 
-When they were done, Akshay found himself standing on the dock with enough unassembled ammunition for an assault on a small fort. It was at this point that he realized that he had no place to take the supplies. His own apartment was far too small, and besides that, it wasn't zoned as commercial real estate. He planned to use the supplies as collateral for securing a loan and business registration, but that would take at least a week, which was far too long to leave anything sitting on any dock anywhere. In addition, the Augur staffed the small business savings and loan department, and while it was unlikely that they ever talked to the consultants over in bankruptcy, Akshay didn't want to take the chance.
+When they were done, Akshay found himself standing on the dock with enough unassembled ammunition to stage an assault on a small fort. It was at this point that he realized that he had no place to take the supplies. His own apartment was far too small, and besides that, it wasn't commercially zoned. He planned to use the supplies as collateral for securing a loan and business registration, but that would take at least a week, which was far too long to leave anything sitting on any dock anywhere. In addition, the Augur staffed the small business savings and loan department, and while it was unlikely that they ever talked to the consultants over in bankruptcy, Akshay didn't want to take the chance.
 
-As he stood there, thinking, he heard the ship's captain spit into the water behind him. Then the captain said, "Get a boat."
+As he stood there, thinking, he heard the ship's captain spit into the water behind him. She said, "Get a boat."
 
 "What?"
 
@@ -98,11 +98,11 @@ Then he got to work on two orders for Lady Eliza; her usual steel-head, blue-ced
 
 He had a message sent to her with his new location, and when she came to visit him later that week, she laughed. "I was expecting a front door of some sort," she said from the dock.
 
-It was a warm, sunny day, and Akshay was working on dec. "Ah, well, I think you just sort of jump," he said, as he set down the fletchings that he had <been attaching>.
+It was a warm, sunny day, and Akshay was working on deck. "Ah, well, I think you just sort of jump," he said, as he set down the fletchings that he had <been attaching>.
 
 Before he could offer her a hand, she had jumped aboard. "One moment," he said, and he climbed down into the hold and <returned with her orders>.
 
-<She nodded with curiosity as he explained the new nock.>
+<She nodded with curiosity as he explained the new nock (and arrow shape?).>
 
 "You know that if you want to run a business from a boat, you need to register with a mainland affiliate?"
 
@@ -140,4 +140,6 @@ She narrowed her eyes again. "No, it's not."
 
 "And it might as well be my store. We'll call it <>."
 
-Akshay bowed. Eliza laughed and returned the bow
+Akshay bowed.
+
+Eliza stuck out her tongue and stepped off the Lady Beth. "I'll be back next month," she said. "After the tournament in Deignlann. <Surprise me>."

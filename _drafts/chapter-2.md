@@ -4,27 +4,45 @@ title: Chapter 2
 permalink: /:title
 ---
 
-"God, Akshay, tell me a story."
+Eliza visited the boat once a month for the next three years. "How was Deignlann?" he would ask. "Grivougne? Ternfelden?" Or wherever the most recent tournament was. <Field archery>. She would laugh, and jump aboard the boat, telling him <very chronologically> what had happened, and who was there.
 
-So he told her the whole story of how the store had started. She laughed.
+Akshay would listen, always working, attaching a fletching to something new or oiling and heating the shaft of some felt but unseen curve <imperfection>. When she was done talking, she would ask him what he was doing, and he would smile and say, "next month". Then he would get up and go to the hold and bring her the order of whatever he had made for her.
 
-"What's on your mind?"
+Sometimes, she would tell him stories from the procurement department, or others. Of the Augur <the example>.
 
-<Lady Eliza shows up with gossip.>
+Once, she asked him to tell her a story, so he told her the story of M. Cheadle and how he'd really gotten the boat. She laughed uproariously.
+
+For the last two months, she had spent significantly less time talking about archery, and significantly more talking about <procurement>.
+
+She arrived at the boat one morning, only two days after her last visit.
+
+"I don't have another <order ready>," he said, stupidly, when he saw her.
+
+"Something's happening, Akshay."
 
 The details of the breakdown were unclear. The Augur's engineers maintained the city's primary aqueduct, and a dozen or so clerks worked at the university and on Lord Wall's manor. Several people claimed to have seen the entire Augur staff hurriedly exit the manor, and others said that a contingent of clerks had been locked in the university chapel. Had several prolonged failures in the aqueduct precipitated a confrontation? Or was it due to the recent publication of several particularly private letters written by Lord Wall's second daughter, and the subsequent street performances using them as source material?
 
-<akshay leaves with several others who had no debts to Lord Wall that oblige them to stay and fight>
+"Anyway," she concluded, "You should leave."
 
-Akshay planned to spend the night camping in the hills overlooking Wallanport. It was an excellent vantage point for watching traffic into and out of the city. The temperature was comfortable enough for sleeping outside, so they would not be too inconvenienced if the rumors turned out to be false.
+"What about you?"
 
-Several hours before dawn, they discovered what an excellent vantage point it was for watching the lanterns of the Augur's ships as they appeared on the horizon and floated slowly down the river towards the city.
+She shrugged. "Family stays."
 
-They could see very clearly when the docks went up in flames.
+Akshay nodded. They looked at each other for a long moment, and then she left. Akshay took a deep breath.
+
+<preparation for departure>
+
+Akshay planned to spend the night camping in the hills overlooking Wallanport. It was an excellent vantage point for watching traffic into and out of the city. The temperature was comfortable enough for sleeping outside, so he would not be too inconvenienced if the rumors turned out to be false.
+
+Several hours before dawn, he discovered what an excellent vantage point it was for watching the lanterns of the Augur's ships as they appeared on the horizon and floated slowly down the river towards the city.
+
+He could see very clearly when the docks went up in flames.
 
 It occurred to Akshay, as he listened to distant screams, that if the cause of the conflagration was the Augur's purported demand for a greater share of the city's revenue (as he had heard), then the docks were a poor target. Most of the ships berthed there were foreign traders, and a large percentage of Wallanport's wealth came from customs duty. Considering the additional fees from leasing the berths, it seemed a suspect long term monetization strategy. Then Akshay heard a dog barking, which made him sad, and this made him feel guilty because there were still humans screaming.
 
 Feeling sick to his stomach, he gathered up his pack and bedroll and began walking. The hills to the west of Wallanport are a relatively small geographic feature, and by morning he had descended them. When he reached the road to Freehull, he stopped and ate a slice of bread and aged cheese. Then he kept walking.
+
+---
 
 Akshay reached the clearing that marked the edge of Lord Wall's holdings just as the sun began to set.
 and Freehull just as the sun began to set. Freehull, as far as the Wallanporters were concerned, was little more than a large tract of trees with a small estate somewhere in the middle. For at least two decades, it had been administered by a woman who called herself Founder May. There was very little trade between Wallanport and her estate, despite their proximity.
@@ -38,6 +56,7 @@ After some discussion, the loosely assembled group decided to camp in the cleari
 The next morning, some of the others continued onwards, but Akshay stayed in the camp. He had never been to Freehull before, and he wanted to wait for news from Wallanport. He spent several hours being talked to by a barrister named Malcolm. <Make Malcolm a woman.> Malcolm was short, with a large head and very small feet that Akshay kept squinting at to make sure they were really as out of proportion as they seemed.
 
 <More about Malcolm. Akshay decided to stop talking to him.>
+<She is talking about Eliza. What you don't know.>
 
 In the evening, two teenagers, a brother and sister, reached the camp from Wallanport. They said that the fire had spread and the aqueduct had been sabotaged. This was unsurprising, concluded the others, and Lord Wall would probably sue for peace. His only alternative was to hire a mercenary arms and repair division from the Independent Nation of Orsland, but the amount of time for messengers to even reach the I.N.O. could be prohibitive.
 
@@ -47,6 +66,8 @@ There were no more arrivals from Wallanport for the next three days, at which po
 
 To avoid them, Akshay spent the morning and most of the afternoon in the surrounding forest <looking for spruces>. <He is a an arrow maker by trade.>
 
+< ---- ?>
+
 Malcolm's party had not departed when Akshay returned to the camp. They didn't leave on the next day either, and Akshay suspected that they had consumed all of their extra travelling food by the following day, when the tall man walked out of the forest.
 
 Akshay looked towards the forest that bordered their little clearing. A tall, slender man limped in their direction, coming in and out of sight as he passed behind thick fir trees. The man continued several paces into the clearing before he stopped and frowned at the disorderly camp that Akshay and thirty or so other refugees had made there.
@@ -55,7 +76,7 @@ The man had come from roughly the same direction that Akshay had explored, and A
 
 The man continued to frown at the camp, then sighed and tried to smile pleasantly. Then he said, "Now that your seven day land use trial has ended, who intends to continue in our extended residence program?"
 
-After a brief silence, the man said in a tired voice, "As you know, Freehull considers property to be a public commodity, and welcomes visitors to reside where they please for up to seven days. After that, extended residence costs one half-mark per day, to be presented bimonthly at the Freehull Estate Administration Center. Any additional non-land usage has an additional surcharge, as you would expect."
+After a brief silence, the man said in a tired voice, "As you know, Freehull considers property to be a public commodity, and welcomes visitors to reside where they please for up to seven days. After that, extended residence costs one half-mark per week, to be presented bimonthly at the Freehull Estate Administration Center. Any additional non-land usage has an additional surcharge, as you would expect."
 
 None of the Wallanporters replied. The man looked around, exasperated. "Seriously, people?"
 
@@ -73,7 +94,7 @@ She hesitated before standing and stepping to the side of her bedroll. The man k
 
 "No," she replied.
 
-He glared at her, huffed, and carefully kneeled down to pick it up. After shaking off more dirt, he opened the box and pulled out a parchment. He unrolled this and read aloud: "Welcome to Freehull. Visitors are entitled to seven days residence on any uncontested property, after which they will be charged one half-mark per day... and it goes on."
+He glared at her, huffed, and carefully kneeled down to pick it up. After shaking off more dirt, he opened the box and pulled out a parchment. He unrolled this and read aloud: "Welcome to Freehull. Visitors are entitled to seven days residence on any uncontested property, after which they will be charged one half-mark per week... and it goes on."
 
 He looked around and added, "As you would expect."
 
@@ -101,7 +122,7 @@ Then he began limping back towards the trees.
 
 "Where's the Administration Center?" someone called after him.
 
-"Down the road," he said, without looking back. "If you leave early, you can make it before the inn closes, although not before the Center itself closes."
+"Down the road," he said, without looking back. "If you leave early, you can make it before the inns close, although not before the Center itself closes."
 
 "Then where you are going?"
 
@@ -109,7 +130,7 @@ Then he began limping back towards the trees.
 
 Then Malcolm shouted, "But I'm not even in Freehull!"
 
-The man stopped at that and turned, saying angrily, "I do not know how visitors are received in Lord Wall's land, but I find bad jokes from guests I have only recently met to be in very poor taste."
+The man stopped at that and turned, saying angrily, "I do not know how visitors are received in Lord Wall's land, but I find that bad jokes from guests I have only recently met are usually made in very poor taste."
 
 "Well, I'm still on Lord Wall's side of that sign. You don't presume to apply your laws to his land as well, do you?"
 

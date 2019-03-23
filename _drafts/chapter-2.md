@@ -35,7 +35,7 @@ and Freehull just as the sun began to set. Freehull, as far as the Wallanporters
 
 After some discussion, the loosely assembled group decided to camp in the clearing. The night was warm, and most of the travellers were well stocked with food, so bartering was brisk and convivial. There was much talk about politics and none about death.
 
-The next morning, some of the others continued onwards, but Akshay stayed in the camp. He had never been to Freehull before, and he wanted to wait for news from Wallanport. He spent several hours being talked to by a barrister named Malcolm. Malcolm was short, with a large head and very small feet that Akshay kept squinting at to make sure they were really as out of proportion as they seemed.
+The next morning, some of the others continued onwards, but Akshay stayed in the camp. He had never been to Freehull before, and he wanted to wait for news from Wallanport. He spent several hours being talked to by a barrister named Malcolm. <Make Malcolm a woman.> Malcolm was short, with a large head and very small feet that Akshay kept squinting at to make sure they were really as out of proportion as they seemed.
 
 <More about Malcolm. Akshay decided to stop talking to him.>
 

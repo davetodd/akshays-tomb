@@ -1,8 +1,10 @@
 ---
 layout: chapter
-title: Chapter 4
+title: Chapter 7
 permalink: /:title
 ---
+
+<All this might still be chapter 3>
 
 "I was hoping it plagues," he said with a sigh.
 

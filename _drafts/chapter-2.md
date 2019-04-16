@@ -4,25 +4,25 @@ title: Chapter 2
 permalink: /:title
 ---
 
-Eliza visited the boat once a month for the next three years.
+Eliza visited the boat once a month for the next three years, and Akshay always gave her two <packets> of arrows, one requested by her, one invented by him. <She never paid in person; always the same little man would come the next day with a line of credit <on> the manor.>
+
+Instead, she would laugh, jump aboard the boat, and seat herself cross-legged on the deck. <To play a game of [...]>
 
 "How was Deignlann?" Akshay would ask. "Grivougne? Ternfelden?" Or wherever the most recent tournament had been.
 
-Eliza would laugh, jump aboard the boat, and seat herself cross-legged on the deck. Then she would describe the set up of the course (she was an avid field archer) and all the shots she had taken, in perfect chronological order.
+Eliza would describe the set up of the course (she was an avid field archer) and all the shots she had taken, in perfect chronological order.
 
-Akshay would ask about the weather, the wind, the arrows, the competitors. His hands always stayed busy, <threading a fletching> or heating a shaft above his portable cooking pot so that he could straighten some unseen curve. Inevitably, Eliza would ask him what he was doing, and he would smile and say, "next month". Then he would go below deck to retrieve the order that he had prepared for her.
+Akshay would ask about the weather, the wind, the arrows, the competitors. His hands always stayed busy, <threading a fletching> or heating a shaft above his portable cooking pot so that he could straighten some unseen curve. Inevitably, Eliza would ask him what he was doing, and he would smile and say, "next month".
 
-Akshay always gave her two <packets> of arrows, one requested by her, one invented by him. [She never paid in person; always the same little man would come the next day with a line of credit <on> the manor.]
+Sometimes, after inquiring about his latest experiments and pressing him for the latest <developments in the trade>, she shared the latest gossip from the manor. He learned, for instance, that construction of the city's new aqueduct had been delayed because of a dispute between the procurement department and the Augur's engineers. The procurement department was the only bureaucratic function that reported directly to Lord Wall, rather than having been contracted from the Augur. This was ostensibly so that all purchases made by the Augur on behalf of Wallanport could be reconciled against the bill for its annual consulting fees. However, as the city relied on the Augur for auditing, it was unclear whether this reconciliation was ever performed correctly (or at all).
 
-Sometimes, after inquiring about his latest experiments and pressing him for the latest <developments in the trade>, she shared the latest gossip from the manor. This was, for instance, how he learned that construction of the city's new aqueduct had been delayed because of a dispute between the procurement department and the Augur's engineers. The procurement department was the only bureaucratic function that reported directly to Lord Wall, rather than having been contracted from the Augur. This was ostensibly so that all purchases made by the Augur on behalf of Wallanport could be reconciled against the bill for its annual consulting fees. However, as the city relied on the Augur for auditing, it was unclear whether this reconciliation was ever performed correctly (or at all).
+Apparently, one of the Augur's engineers had submitted a reimbursement request for a herd of cats. The aqueduct was <fully connected to the river>, but the <gate at the river> hadn't been opened. The aqueduct was an enclosed channel, and during final inspections, a rat infestation had been discovered. The problem could easily be solved: the aqueduct had an overflow channel that drained into the Inlet Sea, so <opening the river gate but not the city gate> would flush the rats out to sea via that channel. But procurement's legal team refused to sign off on the grounds that the <river gate> could not be contractually opened until construction was complete, and construction could not be considered complete as long as it remained in an unsanitary condition.
 
-Apparently, one of the Augur's engineers had submitted a reimbursement request for a herd of cats. The aqueduct was <fully connected to the river>, but the <gate at the river> hadn't been opened. The aqueduct was an enclosed channel, and construction had taken so long, that it had supposedly had a rat infestation. It was build with an overflow channel that drained into the Inlet Sea, so <opening the river gate but not the city gate> would flush the rats out to sea via the overflow drainage and the problem would be solved. But procurement's legal team refused to sign off on the grounds that the river gate could not be contractually opened until construction was complete, and that unsanitary construction could not be considered complete.
+So an enterprising engineer purchased a herd of cats from <somewhere>. The cats went about their task with their characterisically elegant murderous gluttony, and the aqueduct was duly inspected and declared to be sufficiently rat-free <(the actual contract laid out the number of rats per meter of construction -- they were a major problem in general, so most contracts accounted for rat-induced spoilage)>. However, the procurement department noted that stray cats were abundant and could have been procured for 1/10th the requested cost, so the reimbursement was denied. Because of that, the engineers refused to <open the river gates>.
 
-Meanwhile, the cats went about their task with their characterisically elegant murderous gluttony, and the aqueduct was certified sanitary. However, the procurement department noted that stray cats were abundant and could have been procured for 1/10th the requested cost, so the reimbursement was denied. Because of that, the engineers refused to <open the river gates>.
+The dispute escalated over the next two months. Eliza told Akshay that procurement had published a public RFP, distributed by letter on all merchant vessels doing business with any of the holdings along the Inlet Sea. <Waymo>, an organization from Grivougne, that was a suspected front for the Many, submitted a response. They would be sending a ship of their own consultants to inspect the existing aqueduct and suggest improvements.
 
-Over the next two months, Eliza informed Akshay that the dispute had escalated. Procurement published a public RFP, distributed by letter on all merchant vessels doing business with any of the holdings of the Inlet Sea. <Waymo> an organization from Grivougne that many suspected was a front for the Many, submitted a public RFP. They would be sending a ship of their own consultants to inspect the existing aqueduct and suggest improvements.
-
-Eliza arrived at the boat one morning, only two days after her last visit, while Akshay was still in the hold. He didn't notice her come aboard, and said, stupidly, "I don't have another <order ready>," when he saw her climbing down the ladder.
+Eliza arrived at the boat one morning, only two days after her last visit, while Akshay was still in the hold. He didn't notice her come aboard, so she let herself down the ladder. When he finally noticed her, he said, stupidly, "I don't have another <order ready>."
 
 "Something's happening, Akshay," she said.
 
@@ -55,6 +55,8 @@ He could see very clearly when the docks went up in flames.
 Then Akshay heard a dog barking, which made him sad, and this made him feel guilty because there were still humans screaming.
 
 Feeling sick to his stomach, he gathered up his pack and bedroll and began walking. The hills to the west of Wallanport are a relatively small geographic feature, and by morning he had descended them. When he reached the road to Freehull, he stopped and ate a slice of bread and aged cheese. Then he kept walking.
+
+---
 
 <Wallanport benefitted from a warm, coastal wind, but on the other side of the hills. Things were different. Firs and spruces were abundant. Nevertheless, it was mid-summer, and even there the weather was good.>
 
@@ -108,9 +110,9 @@ After a brief silence, the man said in a tired voice, "As you know, Freehull con
 
 None of the Wallanporters replied. The man looked around, exasperated. "Seriously, people?"
 
-He stalked unevenly to the carved wooden sign that read "Freehull". The sign was in the middle of the clearing, loosely at the center of the camp. Victoria, a stocky woman who sourced animal parts for apothecaries, was sitting on her bedroll immediately in front of it. The man stopped and glared down at her.
+He stalked unevenly to the carved wooden sign that read "Freehull". The sign was in the middle of the clearing, loosely at the center of the camp. Leonard, a stocky man who sourced animal parts for apothecaries, was sitting on his bedroll immediately in front of it. The man stopped and glared down at him.
 
-"As you would expect," he said to them all, "If you had bothered to read the terms of the land you are now in." To Victoria, he said, "While you are entitled to reside where you please when in Freehull," and he closed his eyes, "Would you please move yourself from the _specific_ piece of land on which you are now residing."
+"As you would expect," he said to them all, "If you had bothered to read the terms of the land you are now in." To Leonard, he said, "While you are entitled to reside where you please when in Freehull," and he closed his eyes, "Would you please move yourself from the _specific_ piece of land on which you are now residing."
 
 "What?" she said. "Why?"
 
@@ -118,7 +120,7 @@ He stalked unevenly to the carved wooden sign that read "Freehull". The sign was
 
 She hesitated before standing and stepping to the side of her bedroll. The man kicked it aside. Several of the Wallanporters grumbled, but the man ignored them and started kicking at the dirt in front of the sign. He soon unearthed a small box.
 
-"Would you please pick that up for me?" he said to Victoria.
+"Would you please pick that up for me?" he said to Leonard.
 
 "No," she replied.
 
@@ -138,7 +140,7 @@ The man interrupted and gestured to the box, "What was inaccessible about that?"
 
 "Do you see any walls here?" scoffed the man. "We understand that you have your laws. Different land, different laws. We understand this, so we make our terms immediately accessible to all travelers who enter our borders. Look at the arrow on the Freehull sign. It is very clearly pointing down, in commonly understood vernacular, to where one can find all relevant terms and conditions."
 
-"I thought that was pointing in the direction of Freehull," said Victoria.
+"I thought that was pointing in the direction of Freehull," said Leonard.
 
 The man looked at her, dumbfounded. "You thought that Freehull was... underground?"
 

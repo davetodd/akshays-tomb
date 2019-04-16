@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Chapter 5
+title: Chapter 8
 permalink: /:title
 ---
 

@@ -4,6 +4,10 @@ title: Chapter 8
 permalink: /:title
 ---
 
+The paper crane man. Thin sheaves of leaves.
+
+OR
+
 Akshay blinked his eyes several times. A small village was spread out in front of him. The fronts of the buildings were spotless, well crafted wooden facades.
 
 < running water

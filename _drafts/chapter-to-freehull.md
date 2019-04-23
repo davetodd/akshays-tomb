@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Chapter 2
+title: To Freehull
 permalink: /:title
 ---
 

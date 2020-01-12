@@ -1,5 +1,5 @@
 body {
-    background-color: #f9f9f9;
+    background-color: #fcfcfc;
     color: #111111;
     /*font-family: Georgia, serif;*/
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
@@ -23,7 +23,7 @@ a, a:visited, a:active {
 #footer {
     border-top: 1px solid #dfdfdf;
     padding: 10px;
-    font-size: .9em;
+    font-size: 0.9em;
     margin-top: 4em;
 }
 
@@ -38,12 +38,12 @@ a, a:visited, a:active {
 }
 
 #home-chapters li {
-    margin-bottom: .5em;
+    margin-bottom: 0.5em;
 }
 
 .home-chapter-subtitle {
     font-style: italic;
-    font-size: .9em;
+    font-size: 0.9em;
 }
 
 #chapter {
@@ -68,13 +68,8 @@ a, a:visited, a:active {
     align-items: center;
 }
 
-#chapter-content h2::after {
-    content: "";
-    background-color: #111111;
-    height: 2px;
-    flex-grow: 1;
-    margin-left: 8px;
-    margin-top: 2px;
+#chapter-content h2:first-child {
+    margin-top: 0;
 }
 
 #chapter-content h2::before {
@@ -86,9 +81,43 @@ a, a:visited, a:active {
     margin-top: 2px;
 }
 
-#chapter-content p {
-    text-indent: 40px;
-    margin: 0;
+#chapter-content h2::after {
+    content: "";
+    background-color: #111111;
+    height: 2px;
+    flex-grow: 1;
+    margin-left: 8px;
+    margin-top: 2px;
+}
+
+#chapter-content h3 {
+    font-size: 0.9em;
+    margin-top: 1.5em;
+    padding-bottom: 5px;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+}
+
+#chapter-content h3::before {
+    content: "";
+    background-color: #111111;
+    height: 1px;
+    width: 30px;
+    margin-right: 8px;
+    margin-top: 2px;
+}
+
+#chapter-content h3::after {
+    content: "";
+    flex-grow: 1;
+    margin-left: 8px;
+    margin-top: 2px;
+}
+
+#chapter-content p {    
+    /* margin: 0;
+    text-indent: 40px; */
 }
 
 #chapter-content .redacted {
@@ -103,36 +132,74 @@ a, a:visited, a:active {
 
 #chapter-content .scripted-dialogue {
     list-style-type: none;
+    padding: 0.5em;
+    background-color: #e9e9e9;
 }
 
 #chapter-content .scripted-dialogue .speaker {
     text-transform: uppercase;
     font-size: 0.8em;
+    font-weight: bold;
+}
+
+#chapter-content .case-study::before {
+    content: 'Case Study';
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    margin-bottom: 0.5em;
+    padding-top: 1em;
+}
+
+#chapter-content .case-study {
+    background-color: #e9e9e9;
+    border-left: 6px solid #4444ff;
+    padding: 0.5em;
+    margin: 1em 0;
+}
+
+#chapter-content .footnote {
+    margin: 0 1px 0 2px;
+    font-weight: 500;
 }
 
 #chapter-toc {
     background-color: #e9e9e9;
-    margin-top: 1em;
-    padding: 1em;
+    margin: 1em 0 1.5em;
+    padding: 1em 1em 1em 0;
     display: inline-block;
 }
 
-#chapter-toc ul {
+#chapter-toc ol {
     list-style: none;
+}
+
+#chapter-toc > ol {
+    counter-reset: toc-1;
     margin: 0;
-    padding: 0;
+    padding: 0 1em;
+}
+
+#chapter-toc > ol > li::before {
+    counter-increment: toc-1;
+    content: counter(toc-1);
+    margin-right: 0.5em;
+}
+
+#chapter-toc > ol ol {
+    counter-reset: toc-2;
+}
+
+#chapter-toc > ol ol li::before {
+    counter-increment: toc-2;
+    content: counter(toc-1) '.' counter(toc-2);
+    margin-right: 0.5em;
 }
 
 #chapter-toc li {
     line-height: 1.4;
-    font-size: .9em;
-}
-
-#chapter-toc li:before {
-    content: "> ";
-    font-weight: bold;
-    position: relative;
-    top: -1px;
+    font-size: 0.9em;
 }
 
 #chapter-toc li a {
